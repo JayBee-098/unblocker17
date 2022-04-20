@@ -1,1 +1,3 @@
-# hosts
+## linux
+
+`sudo nano /etc/hosts`
